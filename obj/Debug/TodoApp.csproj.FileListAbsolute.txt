@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\TodoApp\TodoApp\bin\Debug\TodoApp.exe.config
+C:\Users\HP\source\repos\TodoApp\TodoApp\bin\Debug\TodoApp.exe
+C:\Users\HP\source\repos\TodoApp\TodoApp\bin\Debug\TodoApp.pdb
+C:\Users\HP\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.exe
+C:\Users\HP\source\repos\TodoApp\TodoApp\obj\Debug\TodoApp.pdb
